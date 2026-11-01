@@ -1,0 +1,15 @@
+.claude/
+node_modules/
+dist/
+vendor/
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-journal
+*.log
+api/storage/logs/
+api/storage/framework/
+api/public/storage
+.DS_Store
+Thumbs.db
